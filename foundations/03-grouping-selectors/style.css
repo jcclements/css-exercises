@@ -1,0 +1,22 @@
+.original, .avatar {
+    font-size:50px;
+    color: white;
+}
+
+.inverted, .distorted {
+    background-color: black;
+}
+
+.fancy, .proportioned {
+    background-color: goldenrod;
+}
+
+.proportioned.avatar {
+    width:500px;
+    height:500px;
+}
+
+.distorted.avatar {
+    height:10rem;
+    width:auto;
+}
